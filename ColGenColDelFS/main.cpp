@@ -5,7 +5,7 @@
 //  Created by StephanP on 9/18/20.
 //  Copyright © 2020 Stephan Patterson. All rights reserved.
 //
-//  Using the General formulation directly and introducing (all, one, or some set contant of) columns h where ch - u'A is negative
+//  Using the General formulation directly and introducing (all, one, or some constant number of) columns h where ch - u'A is negative
 //  This version is for deleting columns as they leave the basis
 
 #include "/Library/gurobi801/mac64/include/gurobi_c++.h"
